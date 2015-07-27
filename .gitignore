@@ -1,0 +1,14 @@
+*.class
+*.jar
+*.war
+*.ear
+
+.project
+.classpath
+.settings
+target
+
+Thumbs.db
+.DS_Store
+
+!java-naoqi-sdk-2.3.109-mac64.jar
